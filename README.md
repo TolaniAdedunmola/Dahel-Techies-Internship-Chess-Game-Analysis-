@@ -1,4 +1,4 @@
-# Dahel-Techies-Internship-Chess-Game-Analysis-
+⁷# Dahel-Techies-Internship-Chess-Game-Analysis-
 Welcome to Chess Game  Analysis!This analysis contains a comprehensive dataset of chess players,games,ranking, ratings and other relevant details. Whether you are a Chess Enthusiasts, researchers  or analysts, this serves as a valuable resource for studying player's performance ,trends, demographics within chess community. 
 
 
@@ -53,6 +53,14 @@ The aim of this analysis is to provide  Valuable insight obout:
 
 # Data source  & Tool
 
+The dataset used in this project was compiled and analyzed as part of my internship experience at Dahel Techies.
+
+Microsoft Excel: Data Exploration, Data Cleaning and Preparation 
+➢ Microsoft Word: Documentation and Reporting 
+➢ Microsoft Power BI: Data Visualization, and dashboard 
+➢ Microsoft Teams: Collaboration, and Sharing Reports 
+➢ Microsoft PowerPoint: Presentation of Findings 
+➢ Microsoft Power Query: Data Transformation
 
 
 # Data Processing
