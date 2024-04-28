@@ -56,21 +56,19 @@ The aim of this analysis is to provide  Valuable insight obout:
 The dataset used in this project was compiled and analyzed as part of my internship experience at Dahel Techies.
 
 Microsoft Excel: Data Exploration, Data Cleaning and Preparation 
-➢ Microsoft Word: Documentation and Reporting
+
  
 ➢ Microsoft Power BI: Data Visualization, and dashboard
-
-➢ Microsoft Teams: Collaboration, and Sharing Reports 
-
-➢ Microsoft PowerPoint: Presentation of Findings 
 
 ➢ Microsoft Power Query: Data Transformation
 
 
 # Data Processing
 * The Dataset was Transformed in the Power Query.
+
 * No cleaning was done as the column quality was 100%, the data types were 
 accurate, no duplicated value and no empty rows.
+
 * Geography data type in excel was used to change the country to its Full name. 
 Games abbreviation was also changed to its full name using SWITCH in Power Bi.
 * The Data was then loaded into Power Bi.
