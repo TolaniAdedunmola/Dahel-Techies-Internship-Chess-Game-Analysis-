@@ -16,8 +16,7 @@ The dataset used in this project was compiled and analyzed as part of my interns
 
     The chess dataset contains information about chess players, their rankings, ratings, games, and other relevant details. It provides valuable insights into player performance, trends, and demographics within the chess community
 
-  # Data Dictionary
-  ## Chess Game Dataset
+
 
 
 ### Data Dictionary
@@ -56,7 +55,7 @@ The aim of this analysis is to provide  Valuable insight obout:
 
 
 
-  # Data Processing
+# Data Processing
 * The Dataset was Transformed in the Power Query.
 * No cleaning was done as the column quality was 100%, the data types were 
 accurate, no duplicated value and no empty rows.
