@@ -7,7 +7,7 @@ The dataset used in this project was compiled and analyzed as part of my interns
 # Content 
 - [Introduction](#introduction)
 - [Data Dictionary](#data-dictionary)
-- [Data Source & Tool](#data-source & Tools)
+- [Data Source & Tool](#data-source-&- Tools)
 - [Data Processing](#data-processing)
 - [Dashboard](#dashboard)
 - [Insight](#insight)
@@ -63,3 +63,10 @@ accurate, no duplicated value and no empty rows.
 Games abbreviation was also changed to its full name using SWITCH in Power Bi.
 * The Data was then loaded into Power Bi.
 * Dax was created for Average Rating and Top Player Rank.
+
+
+# Insight
+
+
+
+# Recommendations 
