@@ -19,7 +19,6 @@ The dataset used in this project was compiled and analyzed as part of my interns
   # Data Dictionary
   ## Chess Game Dataset
 
-Welcome to the Chess Game Dataset repository! This dataset contains information about chess players, their rankings, ratings, games, and other relevant details. Whether you're a chess enthusiast, a data scientist, or a researcher interested in analyzing chess data, this dataset provides valuable insights into player performance, trends, and demographics within the chess community.
 
 ### Data Dictionary
 
@@ -58,10 +57,10 @@ The aim of this analysis is to provide  Valuable insight obout:
 
 
   # Data Processing
-➢The Dataset was Transformed in the Power Query.
-➢No cleaning was done as the column quality was 100%, the data types were 
+* The Dataset was Transformed in the Power Query.
+* No cleaning was done as the column quality was 100%, the data types were 
 accurate, no duplicated value and no empty rows.
-➢ Geography data type in excel was used to change the country to its Full name. 
+* Geography data type in excel was used to change the country to its Full name. 
 Games abbreviation was also changed to its full name using SWITCH in Power Bi.
-➢The Data was then loaded into Power Bi.
-➢Dax was created for Average Rating and Top Player Rank.
+* The Data was then loaded into Power Bi.
+* Dax was created for Average Rating and Top Player Rank.
