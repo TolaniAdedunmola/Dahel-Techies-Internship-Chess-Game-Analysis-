@@ -7,7 +7,7 @@ The dataset used in this project was compiled and analyzed as part of my interns
 # Content 
 - [Introduction](#introduction)
 - [Data Dictionary](#data-dictionary)
-- [Data Source & Tool](#data-source-&- Tools)
+- [Data Source & Tool](#data-source-&-tool)
 - [Data Processing](#data-processing)
 - [Dashboard](#dashboard)
 - [Insight](#insight)
