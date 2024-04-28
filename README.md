@@ -51,7 +51,7 @@ The aim of this analysis is to provide  Valuable insight obout:
 - Top player rating trend
 - player performance by title 
 
-  # Data source  & Tools
+# Data source  & Tool
 
 
 
