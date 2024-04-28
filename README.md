@@ -56,10 +56,14 @@ The aim of this analysis is to provide  Valuable insight obout:
 The dataset used in this project was compiled and analyzed as part of my internship experience at Dahel Techies.
 
 Microsoft Excel: Data Exploration, Data Cleaning and Preparation 
-➢ Microsoft Word: Documentation and Reporting 
-➢ Microsoft Power BI: Data Visualization, and dashboard 
+➢ Microsoft Word: Documentation and Reporting
+ 
+➢ Microsoft Power BI: Data Visualization, and dashboard
+
 ➢ Microsoft Teams: Collaboration, and Sharing Reports 
+
 ➢ Microsoft PowerPoint: Presentation of Findings 
+
 ➢ Microsoft Power Query: Data Transformation
 
 
