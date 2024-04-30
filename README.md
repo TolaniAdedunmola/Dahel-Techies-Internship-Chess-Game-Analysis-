@@ -9,7 +9,7 @@ The dataset used in this project was compiled and analyzed as part of my interns
 # Content 
 - [Introduction](#introduction)
 - [Data Dictionary](#data-dictionary)
-- [Data Source & Tool](#data-source-&-tool)
+- [Data Source](#data-source)
 - [Data Processing](#data-processing)
 - [Dashboard](#dashboard)
 - [Insight](#insight)
@@ -53,16 +53,16 @@ The aim of this analysis is to provide  Valuable insight obout:
 - Top player rating trend
 - player performance by title 
 
-# Data source  & Tool
+### Data Source 
 
 The dataset used in this project was compiled and analyzed as part of my internship experience at Dahel Techies.
 
-Microsoft Excel: Data Exploration, Data Cleaning and Preparation 
+### Tool
 
- 
-➢ Microsoft Power BI: Data Visualization, and dashboard
+* Microsoft Excel: Data Exploration, Data Cleaning and Preparation 
+* Microsoft Power BI: Data Visualization, and dashboard
 
-➢ Microsoft Power Query: Data Transformation
+* Microsoft Power Query: Data Transformation
 
 
 # Data Processing
@@ -75,6 +75,8 @@ accurate, no duplicated value and no empty rows.
 Games abbreviation was also changed to its full name using SWITCH in Power Bi.
 * The Data was then loaded into Power Bi.
 * Dax was created for Average Rating and Top Player Rank.
+
+# Dashboard
 
 
 # Insight
