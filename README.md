@@ -39,19 +39,14 @@ Feel free to use this dataset for analysis, research, or any other purposes. We 
 Link to Dataset [Here](https://drive.google.com/file/d/1g0tyiIFNXWSqrt4-aIxtUSDXjhvFT8HS/view?usp=drivesdk)
 
 The aim of this analysis is to provide  Valuable insight obout:
-- Total number of players
-- Average rating
-- Highest ranking 
-- Distribution of players by countries
-- player ranking over time
-- Top player by title
-- player performance comparison
-- player by country
-- Game outcome distribution
-- players age distribution
-- Top players by country
-- Top player rating trend
-- player performance by title 
+- How many games were played?
+-	How many players played?
+-	How many countries participated in the game?
+-	What is the average age of the players?
+-	Top 5 highest ranking players?
+-	Countries with the most players?
+-	Player that played the most game.
+-	What is the correlation between players age and their rating?
 
 ### Data Source 
 
