@@ -66,14 +66,12 @@ The dataset used in this project was compiled and analyzed as part of my interns
 * No cleaning was done as the column quality was 100%, the data types were 
 accurate, no duplicated value and no empty rows.
 
-* Geography data type in excel was used to change the country to its Full name. 
-Games abbreviation was also changed to its full name using SWITCH in Power Bi.
 * The Data was then loaded into Power Bi.
-* Dax was created for Average Rating and Top Player Rank.
+* filtered ratings to arrive at average rating.
 
 # Dashboard
 
-https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Chess-Game-Analysis-/blob/main/Chess%20game%20dashboard%20github.PNG
+
 
 
 # Insight
