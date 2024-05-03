@@ -73,6 +73,8 @@ Games abbreviation was also changed to its full name using SWITCH in Power Bi.
 
 # Dashboard
 
+https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Chess-Game-Analysis-/blob/main/Chess%20game%20dashboard%20github.PNG
+
 
 # Insight
 
