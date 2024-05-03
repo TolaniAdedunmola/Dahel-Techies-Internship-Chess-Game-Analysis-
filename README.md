@@ -71,13 +71,31 @@ accurate, no duplicated value and no empty rows.
 
 # Dashboard
 
-https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Chess-Game-Analysis-/blob/main/Chess%20game%20Dashboard.PNG
-
-
+<!-- Banner Text -->
+<img src="https://github.com/TolaniAdedunmola/Dahel-Techies-Internship-Chess-Game-Analysis-/blob/main/Chess%20game%20Dashboard.PNG">
 
 
 # Insight
 
+* The total games played was 121,868 (122k) and 346 players from 64 countries participated in the game.
+* The average age of the player as of 2024 is 44 years old. *
+* Russian played the most game followed by Netherland. 
+*	Russia had the highest number of players in the game followed by Ukraine and Usa, then China.
+*	Tiviakov Sergei from Netherland played the most gamed followed Van Wely Loek also from Netherland.
+*	There is no correlation between player’s age and their rating
+*	Top ranked players are Anand Viswanathan from india, Carlsen Magnus, Kasparov Garry, Kramnik Vladimir, Topalov Veselin.
+*	Anand Viswanathan from india played 7 games, Carlsen Magnus from Norway played 15 games, Kasparov Garry and Kramnik Vladimir from Russia payed 8 and 1 games respectively, Topalov Veselin from Bulgaria played 6 games. 
 
 
 # Recommendations 
+
+* Given the participation from 64 countries, consider initiatives to further diversify and encourage participation from underrepresented regions. This could involve outreach programs, sponsorships, or collaborations with chess federations in those countries.
+  
+* With an average player age of 44, there's an opportunity to focus on engaging younger players. Consider organizing youth tournaments, offering scholarships or training programs, and leveraging social media platforms to reach a younger audience.
+
+* Since there's no correlation between age and rating, emphasize player development programs for all age groups. Offer coaching, training materials, and opportunities for players to improve their skills regardless of their age.
+
+*Recognize Top Players Continue to highlight and celebrate top-ranked players like Anand Viswanathan, Carlsen Magnus, Kasparov Garry, Kramnik Vladimir, and Topalov Veselin. Consider hosting special events, offering incentives, or providing support for their continued success in the game.
+
+*Enhance Data Analysis Utilize data analytics to further understand player behavior, preferences, and trends. This can inform decision-making processes related to tournament organization, prize distribution, and future initiatives aimed at enhancing the overall chess experience.
+
