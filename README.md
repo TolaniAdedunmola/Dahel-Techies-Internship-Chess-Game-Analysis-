@@ -79,7 +79,7 @@ accurate, no duplicated value and no empty rows.
 
 * The total games played was 121,868 (122k) and 346 players from 64 countries participated in the game.
 * The average age of the player as of 2024 is 44 years old. *
-* Russian played the most game followed by Netherland. 
+* Russia played the most game followed by Netherland. 
 *	Russia had the highest number of players in the game followed by Ukraine and Usa, then China.
 *	Tiviakov Sergei from Netherland played the most gamed followed Van Wely Loek also from Netherland.
 *	There is no correlation between player’s age and their rating
