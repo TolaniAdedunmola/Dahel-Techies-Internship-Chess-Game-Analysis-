@@ -95,7 +95,7 @@ accurate, no duplicated value and no empty rows.
 
 * Since there's no correlation between age and rating, emphasize player development programs for all age groups. Offer coaching, training materials, and opportunities for players to improve their skills regardless of their age.
 
-*Recognize Top Players Continue to highlight and celebrate top-ranked players like Anand Viswanathan, Carlsen Magnus, Kasparov Garry, Kramnik Vladimir, and Topalov Veselin. Consider hosting special events, offering incentives, or providing support for their continued success in the game.
+* Recognize Top Players Continue to highlight and celebrate top-ranked players like Anand Viswanathan, Carlsen Magnus, Kasparov Garry, Kramnik Vladimir, and Topalov Veselin. Consider hosting special events, offering incentives, or providing support for their continued success in the game.
 
-*Enhance Data Analysis Utilize data analytics to further understand player behavior, preferences, and trends. This can inform decision-making processes related to tournament organization, prize distribution, and future initiatives aimed at enhancing the overall chess experience.
+* Enhance Data Analysis Utilize data analytics to further understand player behavior, preferences, and trends. This can inform decision-making processes related to tournament organization, prize distribution, and future initiatives aimed at enhancing the overall chess experience.
 
